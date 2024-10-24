@@ -1,0 +1,5 @@
+{
+ :deps {
+  io.github.zharinov/good-enough-parser {:git/tag "1.1.22" :git/sha "972eed864196468a11dba421a12c0fc1b58a6350"}
+ }
+}
